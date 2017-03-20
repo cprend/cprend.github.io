@@ -46,5 +46,5 @@ ul.posts li {
     list-style: none;
 }
 #header {
-    background: black url(/banner5.png) center no-repeat;
+    background: black url(/banner5.png) left no-repeat;
 }
