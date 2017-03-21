@@ -28,6 +28,10 @@ p1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: rgb(211,211,211);
 }
+p2 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 p {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
