@@ -57,3 +57,6 @@ ul.posts li {
 #header {
     background: black url(/banner5.png) left no-repeat;
 }
+.main-header {
+  text-align: center;
+}
