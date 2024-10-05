@@ -53,6 +53,32 @@ Honors and Awards
   
 Presentations
 ======
+* 2024
+  * Conference presentations: Ocean Sciences Meeting, NOAA Climate and Global Change Summer Institute, SCAR Open Science Conference
+  * Seminars: University of California Berkeley, University of California Santa Barbara, University of Washington, University of Edinburgh
+    
+* 2023
+  * Conference presentations: Gordon Research Conference on Polar Marine Science, US CLIVAR Summit, SOOS Symposium, PCC Summer Institute, Comer Climate Conference
+  * Seminars: University of Washington, Yale University, New York University--Courant Institute, University of Wisconsin--Madison, University of Cambridge
+    
+* 2022
+  * Conference presentations: Ocean Sciences Meeting, Royal Society Meeting, EGU General Assembly, SOCCOM Annual Meeting, AGU Fall Meeting, Physical Oceanography Dissertation Symposium, SO-CHIC Meeting 
+  * Seminars: University of California Los Angeles, University of Washington, British Antarctic Survey, SOFLUX Work Group Webinar
+    
+* 2021
+  * Conference presentations: EGU General Assembly, SOCCOM Annual Meeting, Graduate Climate Conference
+    
+* 2020
+  * Conference presentations: Ocean Sciences Meeting, SOCCOM Annual Meeting
+    
+* 2019
+  * Conference presentations: SOCCOM Annual Meeting, AGU Fall Meeting
+
+* 2018
+  * Conference presentations: Ocean Sciences Meeting, AGU Fall Meeting
+ 
+* 2026
+  * Conference presentations: AGU Fall Meeting
   
 Teaching
 ======
