@@ -62,8 +62,8 @@ Presentations
   * **Seminars:** University of Washington, Yale University, New York University--Courant Institute, University of Wisconsin--Madison, University of Cambridge
     
 * 2022
-  * **Conference presentations:** Ocean Sciences Meeting, EGU General Assembly, SOCCOM Annual Meeting, AGU Fall Meeting, Physical Oceanography Dissertation Symposium, SO-CHIC Meeting 
-  * **Seminars:** University of California Los Angeles, University of Washington, British Antarctic Survey, SOFLUX Work Group Webinar
+  * **Conference presentations:** Ocean Sciences Meeting, EGU General Assembly, SOCCOM Annual Meeting, Physical Oceanography Dissertation Symposium, SO-CHIC Meeting, AGU Fall Meeting 
+  * **Seminars:** University of California Los Angeles, University of Washington, British Antarctic Survey, SOFLUX Working Group Webinar
     
 * 2021
   * **Conference presentations:** EGU General Assembly, SOCCOM Annual Meeting, Graduate Climate Conference
