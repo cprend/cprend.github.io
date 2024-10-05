@@ -11,7 +11,7 @@ I am an [NSF Office of Polar Programs Postdoctoral Fellow](https://www.nsf.gov/g
 
 Research interests
 ======
-I am interested in a wide range of topics related to Southern Ocean dynamics, including ice-ocean interactions, air-sea fluxes, and physical controls on biogeochemistry. 
+The goal of my research, broadly speaking, is to understand the role of the polar oceans in global climate. My background is in physical oceanography, but I work on a range of interdisciplinary topics including ice-ocean interactions, air-sea fluxes, and physical controls on marine biogeochemistry. Much of my research leverages new autonomous observations from profiling floats, gliders, wave buoys, and instrumented marine mammals. However, I often use satellite data, theory, and numerical models to interpret these autonomous measurements and determine how they can help us to improve future climate projections.
 
 Outreach
 ======
