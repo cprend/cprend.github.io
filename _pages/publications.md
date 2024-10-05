@@ -9,9 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Peer Reviewed
 
-17. **Prend, C.J.**, M.D. du Plessis, M.R. Mazloff, L. Sunnercrantz, S. Swart, S.T. Gille. Observing system requirements for measuring high-frequency air-sea fluxes in the Southern Ocean, submitted.
+1. **Prend, C.J.**, M.D. du Plessis, M.R. Mazloff, L. Sunnercrantz, S. Swart, S.T. Gille. Observing system requirements for measuring high-frequency air-sea fluxes in the Southern Ocean, submitted.
 
-16. du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, **C.J. Prend**, S. Swart. Storms regulate Southern Ocean summer warming, submitted.
+2. du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, **C.J. Prend**, S. Swart. Storms regulate Southern Ocean summer warming, submitted.
 
 Spungin, S., Y. Si, A.L. Stewart, **C.J. Prend**. Observed seasonality of mixed-layer eddies and vertical heat transport over the Antarctic continental shelf, submitted.
 
@@ -44,8 +44,8 @@ Weller, R.A., J.T. Farrar, H. Seo, **C.J. Prend**, D. Sengupta, J. Sree Lekha, M
 **Prend, C.J.**, H. Seo, R.A. Weller, J.T Farrar (2018). Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal. <em>Deep Sea Research II</em>, <b>161</b>, 63-71. doi: <a href="https://www.sciencedirect.com/science/article/pii/S0967064517304010?via%3Dihub">10.1016/j.dsr2.2018.09.007</a>
 
 ## Non Peer Reviewed
-**Prend, C.J.** (2022). Physical controls on Southern Ocean biogeochemistry. <em>Ph.D. dissertation</em>, Scripps Institution of Oceanography.
+1. **Prend, C.J.** (2022). Physical controls on Southern Ocean biogeochemistry. <em>Ph.D. dissertation</em>, Scripps Institution of Oceanography.
 
-**Prend, C.J.** (2019). Eddy mixing of biogeochemical tracers. <em>Proceedings of the Geophysical Fluid Dynamics Program</em>, Woods Hole Oceanographic Institution.
+2. **Prend, C.J.** (2019). Eddy mixing of biogeochemical tracers. <em>Proceedings of the Geophysical Fluid Dynamics Program</em>, Woods Hole Oceanographic Institution.
 
-**Prend, C.J.** (2017). Constraining the global distribution of marine sedimentary carbonate. <em>B.A. thesis</em>, Columbia University.
+3. **Prend, C.J.** (2017). Constraining the global distribution of marine sedimentary carbonate. <em>B.A. thesis</em>, Columbia University.
