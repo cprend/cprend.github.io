@@ -38,18 +38,18 @@ Positions
 
 Honors and Awards
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** NSF Office of Polar Programs (OPP) Postdoctoral Fellowship<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** Fulbright U.S. Scholar Award, Department of State<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** Jean Fort Dissertation Prize, University of California San Diego<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** NOAA Climate and Global Change Postdoctoral Fellowship<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** Outstanding Student Presentation Award, EGU General Assembly<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** Achievement Rewards for College Scientists (ARCS) Foundation Fellowship<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** Chateaubriand Fellowship, French Embassy to the U.S.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2019** Geophysical Fluid Dynamics Fellowship, Woods Hole Oceanographic Institution<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2017** NSF Graduate Research Fellowship<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2017** Walter C. Pitman III Award, Columbia University<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** Young Investigator Award, Columbia University<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** Summer Student Fellowship, Woods Hole Oceanographic Institution
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;NSF Office of Polar Programs (OPP) Postdoctoral Fellowship<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Fulbright U.S. Scholar Award, Department of State<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;Jean Fort Dissertation Prize, University of California San Diego<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;NOAA Climate and Global Change Postdoctoral Fellowship<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** &nbsp;&nbsp;Outstanding Student Presentation Award, EGU General Assembly<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** &nbsp;&nbsp;Achievement Rewards for College Scientists (ARCS) Foundation Fellowship<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** &nbsp;&nbsp;Chateaubriand Fellowship, French Embassy to the U.S.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2019** &nbsp;&nbsp;Geophysical Fluid Dynamics Fellowship, Woods Hole Oceanographic Institution<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2017** &nbsp;&nbsp;NSF Graduate Research Fellowship<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2017** &nbsp;&nbsp;Walter C. Pitman III Award, Columbia University<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** &nbsp;&nbsp;Young Investigator Award, Columbia University<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** &nbsp;&nbsp;Summer Student Fellowship, Woods Hole Oceanographic Institution
   
 Presentations
 ======
