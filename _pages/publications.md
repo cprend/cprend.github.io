@@ -8,15 +8,15 @@ author_profile: false
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uyiGX5kAAAAJ&hl=en">my Google Scholar profile</a></u>.
 
 ## Peer Reviewed
+<ol reversed>
+  <li><b>Prend, C.J.</b>, M.D. du Plessis, M.R. Mazloff, L. Sunnercrantz, S. Swart, S.T. Gille. Observing system requirements for measuring high-frequency air-sea fluxes in the Southern Ocean, submitted.</li>
+  <li>du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, <b>C.J. Prend</b>, S. Swart. Storms regulate Southern Ocean summer warming, submitted.</li>
+  <li>Spungin, S., Y. Si, A.L. Stewart, <b>C.J. Prend</b>. Observed seasonality of mixed-layer eddies and vertical heat transport over the Antarctic continental shelf, submitted.</li>
+  <li><b>Prend, C.J.</b>, G.A. MacGilchrist, G.E. Manucharyan, R.Q. Pang, R. Moorman, A.F. Thompson, S.M. Griffies, M.R. Mazloff, L.D. Talley, S.T. Gille (2024). Ross Gyre variability modulates oceanic heat supply toward the West Antarctic continental shelf, <em>Communications Earth & Environment</em>, <b>5</b>. doi: <a href="https://www.nature.com/articles/s43247-024-01207-y">10.1038/s43247-024-01207-y</a></li>
+  <li>Sauvé, J., A.R. Gray, <b>C.J. Prend</b>, S.M. Bushinsky, S.C. Riser (2023). Carbon outgassing in the Antarctic Circumpolar Current supported by Ekman transport from the sea ice zone in an observation-based mixed-layer budget, <em>Journal of Geophysical Research: Oceans</em>, <b>128</b>. doi: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JC019815">10.1029/2023JC019815</a></li>
+  
+    
 
-
-1. **Prend, C.J.**, M.D. du Plessis, M.R. Mazloff, L. Sunnercrantz, S. Swart, S.T. Gille. Observing system requirements for measuring high-frequency air-sea fluxes in the Southern Ocean, submitted.
-
-2. du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, **C.J. Prend**, S. Swart. Storms regulate Southern Ocean summer warming, submitted.
-
-3. Spungin, S., Y. Si, A.L. Stewart, **C.J. Prend**. Observed seasonality of mixed-layer eddies and vertical heat transport over the Antarctic continental shelf, submitted.
-
-4. **Prend, C.J.**, G.A. MacGilchrist, G.E. Manucharyan, R.Q. Pang, R. Moorman, A.F. Thompson, S.M. Griffies, M.R. Mazloff, L.D. Talley, S.T. Gille (2024). Ross Gyre variability modulates oceanic heat supply toward the West Antarctic continental shelf, <em>Communications Earth & Environment</em>, <b>5</b>. doi: <a href="https://www.nature.com/articles/s43247-024-01207-y">10.1038/s43247-024-01207-y</a>
 
 5. Sauvé, J., A.R. Gray, **C.J. Prend**, S.M. Bushinsky, S.C. Riser (2023). Carbon outgassing in the Antarctic Circumpolar Current supported by Ekman transport from the sea ice zone in an observation-based mixed-layer budget, <em>Journal of Geophysical Research: Oceans</em>, <b>128</b>. doi: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JC019815">10.1029/2023JC019815</a>
 
@@ -43,6 +43,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 16. Weller, R.A., J.T. Farrar, H. Seo, **C.J. Prend**, D. Sengupta, J. Sree Lekha, M. Ravichandran, R. Venkatsen (2018). Moored observations of the surface meteorology and air-sea fluxes in the northern Bay of Bengal in 2015. <em>Journal of Climate</em>, <b>32</b>, 549-573. doi: <a href="https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-18-0413.1">10.1175/JCLI-D-18-0413.1</a>
 
 17. **Prend, C.J.**, H. Seo, R.A. Weller, J.T Farrar (2018). Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal. <em>Deep Sea Research II</em>, <b>161</b>, 63-71. doi: <a href="https://www.sciencedirect.com/science/article/pii/S0967064517304010?via%3Dihub">10.1016/j.dsr2.2018.09.007</a>
+</ol>
 
 ## Non Peer Reviewed
 <ol reversed>
