@@ -18,23 +18,23 @@ Positions
 ======
 * 2024--present: University of Washington--Applied Physics Laboratory
   * NSF Office of Polar Programs Postdoctoral Fellow
-  * Advisor: [James Girton](https://www.apl.washington.edu/people/profile.php?last_name=Girton&first_name=James)
+  * **Advisor:** [James Girton](https://www.apl.washington.edu/people/profile.php?last_name=Girton&first_name=James)
 
 * 2023--2024: University of Gothenburg
   * Fulbright U.S. Scholar
-  * Advisor: [Sebastiaan Swart](https://sebswart.com/)
+  * **Advisor:** [Sebastiaan Swart](https://sebswart.com/)
 
 * 2022--2024: California Institute of Technology; University of Washington
   * NOAA Climate and Global Change Postdoctoral Fellow
-  * Advisors: [Andrew Thompson](https://web.gps.caltech.edu/~andrewt/) (Caltech); [Georgy Manucharyan](https://deep.ocean.washington.edu/) (UW)
+  * **Advisors:** [Andrew Thompson](https://web.gps.caltech.edu/~andrewt/) (Caltech); [Georgy Manucharyan](https://deep.ocean.washington.edu/) (UW)
 
 * 2020--2021: Sorbonne Université, LOCEAN--IPSL
   * Chateaubriand Fellow
-  * Advisor: [Marina Lévy](https://pagesperso.locean-ipsl.upmc.fr/marina/)
+  * **Advisor:** [Marina Lévy](https://pagesperso.locean-ipsl.upmc.fr/marina/)
 
 * 2017--2022: Scripps Institution of Oceanography
   * NSF Graduate Research Fellow
-  * Advisors: [Lynne Talley](https://sam.ucsd.edu/talleyhome.html) and [Sarah Gille](https://pordlabs.ucsd.edu/sgille/)  
+  * **Advisors:** [Lynne Talley](https://sam.ucsd.edu/talleyhome.html) and [Sarah Gille](https://pordlabs.ucsd.edu/sgille/)  
 
 Honors and Awards
 ======
