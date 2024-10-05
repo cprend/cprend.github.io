@@ -45,8 +45,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 17. **Prend, C.J.**, H. Seo, R.A. Weller, J.T Farrar (2018). Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal. <em>Deep Sea Research II</em>, <b>161</b>, 63-71. doi: <a href="https://www.sciencedirect.com/science/article/pii/S0967064517304010?via%3Dihub">10.1016/j.dsr2.2018.09.007</a>
 
 ## Non Peer Reviewed
-1. **Prend, C.J.** (2022). Physical controls on Southern Ocean biogeochemistry. <em>Ph.D. dissertation</em>, Scripps Institution of Oceanography.
-
-2. **Prend, C.J.** (2019). Eddy mixing of biogeochemical tracers. <em>Proceedings of the Geophysical Fluid Dynamics Program</em>, Woods Hole Oceanographic Institution.
-
-3. **Prend, C.J.** (2017). Constraining the global distribution of marine sedimentary carbonate. <em>B.A. thesis</em>, Columbia University.
+<ol reversed>
+  <li><b>Prend, C.J.</b> (2022). Physical controls on Southern Ocean biogeochemistry. <em>Ph.D. dissertation</em>, Scripps Institution of Oceanography.</li>
+  <li><b>Prend, C.J.</b> (2019). Eddy mixing of biogeochemical tracers. <em>Proceedings of the Geophysical Fluid Dynamics Program</em>, Woods Hole Oceanographic Institution.</li>
+  <li><b>Prend, C.J.</b> (2017). Constraining the global distribution of marine sedimentary carbonate. <em>B.A. thesis</em>, Columbia University.</li>
+  </ol>
