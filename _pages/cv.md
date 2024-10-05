@@ -38,7 +38,7 @@ Positions
 
 Honors and Awards
 ======
-**2024** NSF Office of Polar Programs (OPP) Postdoctoral Fellowship<br>
+&nbsp;&nbsp;**2024** NSF Office of Polar Programs (OPP) Postdoctoral Fellowship<br>
 **2023** Fulbright U.S. Scholar Award, Department of State<br>
 **2022** Jean Fort Dissertation Prize, University of California San Diego<br>
 **2022** NOAA Climate and Global Change Postdoctoral Fellowship<br>
