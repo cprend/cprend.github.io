@@ -38,8 +38,18 @@ Positions
 
 Honors and Awards
 ======
-* Skill 1
-* Skill 2
+NSF Office of Polar Programs (OPP) Postdoctoral Fellowship
+Fulbright U.S. Scholar Award, Department of State
+Jean Fort Dissertation Prize, University of California San Diego
+NOAA Climate and Global Change Postdoctoral Fellowship
+Outstanding Student Presentation Award, EGU General Assembly
+Achievement Rewards for College Scientists (ARCS) Foundation Fellowship
+Chateaubriand Fellowship, French Embassy to the U.S.
+Geophysical Fluid Dynamics Fellowship, Woods Hole Oceanographic Institution
+NSF Graduate Research Fellowship
+Walter C. Pitman III Award, Columbia University
+Young Investigator Award, Columbia University
+Summer Student Fellowship, Woods Hole Oceanographic Institution
   
 Presentations
 ======
