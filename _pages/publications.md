@@ -41,6 +41,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 16. Weller, R.A., J.T. Farrar, H. Seo, **C.J. Prend**, D. Sengupta, J. Sree Lekha, M. Ravichandran, R. Venkatsen (2018). Moored observations of the surface meteorology and air-sea fluxes in the northern Bay of Bengal in 2015. <em>Journal of Climate</em>, <b>32</b>, 549-573. doi: <a href="https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-18-0413.1">10.1175/JCLI-D-18-0413.1</a>
 
-17. **Prend, C.J.**, H. Seo, R.A. Weller, J.T Farrar (2018). Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal. <em>Deep Sea Research II</em>, <b>161</b>, 63-71. doi: <a href="https://www.sciencedirect.com/science/article/pii/S0967064517304010?via%3Dihub">10.1016/j.dsr2.2018.09.007</a></p>
+17. **Prend, C.J.**, H. Seo, R.A. Weller, J.T Farrar (2018). Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal. <em>Deep Sea Research II</em>, <b>161</b>, 63-71. doi: <a href="https://www.sciencedirect.com/science/article/pii/S0967064517304010?via%3Dihub">10.1016/j.dsr2.2018.09.007</a>
 
 ## Non Peer Reviewed
