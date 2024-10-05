@@ -38,14 +38,14 @@ Positions
 
 Honors and Awards
 ======
-* 2024  NSF Office of Polar Programs (OPP) Postdoctoral Fellowship
-* 2023  Fulbright U.S. Scholar Award, Department of State
-* 2022  Jean Fort Dissertation Prize, University of California San Diego
-* 2022  NOAA Climate and Global Change Postdoctoral Fellowship
-* 2021  Outstanding Student Presentation Award, EGU General Assembly
-* 2020  Achievement Rewards for College Scientists (ARCS) Foundation Fellowship
-* 2020  Chateaubriand Fellowship, French Embassy to the U.S.
-* 2019  Geophysical Fluid Dynamics Fellowship, Woods Hole Oceanographic Institution
+* 2024        NSF Office of Polar Programs (OPP) Postdoctoral Fellowship
+* 2023        Fulbright U.S. Scholar Award, Department of State
+* 2022        Jean Fort Dissertation Prize, University of California San Diego
+* 2022        NOAA Climate and Global Change Postdoctoral Fellowship
+* 2021        Outstanding Student Presentation Award, EGU General Assembly
+* 2020        Achievement Rewards for College Scientists (ARCS) Foundation Fellowship
+* 2020        Chateaubriand Fellowship, French Embassy to the U.S.
+* 2019        Geophysical Fluid Dynamics Fellowship, Woods Hole Oceanographic Institution
 * 2017  NSF Graduate Research Fellowship
 * 2017  Walter C. Pitman III Award, Columbia University
 * 2016  Young Investigator Award, Columbia University
