@@ -84,10 +84,10 @@ Teaching
 
 Mentoring
 ======
-* Anna Lopez, Stanford University. **Project:** Seasonality of the Antarctic Coastal Current in the Bellingshausen Sea.
-* Isabella Checa, Princeton University. **Project:** Joint variability of air-sea carbon and oxygen fluxes in the Southern Ocean.
-* Rachel Pang, Princeton University. **Project:** Remote sources of oceanic heat delivery to the Antarctic continental shelf (Prend et al., 2024).
-* Jess Hunt, Princeton University. **Project:** Boundary between regimes of <em>p</em>CO<sub>2</sub> seasonality in the South Pacific (Prend, Hunt, et al., 2022).
-* Hanne Borstlap, Princeton University. **Project:** Seasonal variabilitiy of deep chlorophyll maxima in an oligotrophic regime.
-* Sawyer Brand, UCSD. **Project:** Lateral mixing of Pacific and North Atlantic Deep Waters in the Argentine Basin (Brand et al., 2023).
-* Lauren von Berg, Princeton University. **Project:** Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation (von Berg et al., 2020).
+* Anna Lopez, <em>Stanford University</em>. **Project:** Seasonality of the Antarctic Coastal Current in the Bellingshausen Sea.
+* Isabella Checa, <em>Princeton University</em>. **Project:** Joint variability of air-sea carbon and oxygen fluxes in the Southern Ocean.
+* Rachel Pang, <em>Princeton University</em>. **Project:** Remote sources of oceanic heat delivery to the Antarctic continental shelf (Prend et al., 2024).
+* Jess Hunt, <em>Princeton University</em>. **Project:** Boundary between regimes of <em>p</em>CO<sub>2</sub> seasonality in the South Pacific (Prend, Hunt, et al., 2022).
+* Hanne Borstlap, <em>Princeton University</em>. **Project:** Seasonal variabilitiy of deep chlorophyll maxima in an oligotrophic regime.
+* Sawyer Brand, <em>UC San Diego</em>. **Project:** Lateral mixing of Pacific and North Atlantic Deep Waters in the Argentine Basin (Brand et al., 2023).
+* Lauren von Berg, <em>Princeton University</em>. **Project:** Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation (von Berg et al., 2020).
