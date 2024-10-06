@@ -76,6 +76,6 @@ Presentations
 Teaching
 ======
 * Teaching Assistant
-  * <em>SIOC210/</em>Introduction to Physical Oceanography (Scripps) <a href="Prend_TA_Evaluations-SIO210_FA20.pdf" target="_blank">Evaluations</a></p>
+  * <em>SIOC210/</em>Introduction to Physical Oceanography (Scripps) <a href="Prend_TA_Evaluations-SIO210_FA20.pdf" target="_blank">Evaluations</a>
 * Guest Lecturer
   * <em>ATMS588/</em>Global Carbon Cycle and Climate (UW), <em>OCEAN512/</em>Geophysical Fluid Dynamics I (UW), <em>MARBIO301/</em>Topics in Marine Biology (UW), <em>OCEAN510/</em>Physics of Ocean Circulation (UW), <em>SIOC176/</em>Observational Physical Oceanography (Scripps)
