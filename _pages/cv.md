@@ -84,7 +84,7 @@ Teaching
 
 Mentoring
 ======
-* Anna Lopez, <em>Stanford University</em>. **Project:** Seasonality of the Antarctic Coastal Current in the Bellingshausen Sea.
+* Anna Fisher Lopez, <em>Stanford University</em>. **Project:** Seasonality of the Antarctic Coastal Current in the Bellingshausen Sea.
 * Isabella Checa, <em>Princeton University</em>. **Project:** Joint variability of air-sea carbon and oxygen fluxes in the Southern Ocean.
 * Rachel Pang, <em>Princeton University</em>. **Project:** Remote sources of oceanic heat delivery to the Antarctic continental shelf (Prend et al., 2024).
 * Jess Hunt, <em>Princeton University</em>. **Project:** Boundary between regimes of <em>p</em>CO<sub>2</sub> seasonality in the South Pacific (Prend, Hunt, et al., 2022).
