@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physical Oceanography, Scripps Institution of Oceanography, 2022
+* Ph.D. in Physical Oceanography, Scripps Institution of Oceanography, 2022
 * B.A. in Earth Science and Mathematics, Columbia University, 2017
 
 Positions
