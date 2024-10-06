@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="mailto:cprend@uw.edu">Contact me</a> for a complete CV.
 
 Education
 ======
