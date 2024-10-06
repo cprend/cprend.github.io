@@ -50,7 +50,14 @@ Honors and Awards
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2017** &nbsp;&nbsp;Walter C. Pitman III Award, Columbia University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** &nbsp;&nbsp;Young Investigator Award, Columbia University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** &nbsp;&nbsp;Summer Student Fellowship, Woods Hole Oceanographic Institution
-  
+
+Service
+======
+* Peer reviewer for 22 academic journals
+* Southern Ocean Fluxes (SOFLUX) working group leadership team
+* CLIVAR/CliC/SCAR Southern Ocean Region Panel
+* Session convener at 3 international scientific conferences  
+
 Presentations
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;SCAR Open Science Conference; NOAA CGC Summer Institute; Ocean Sciences Meeting<br>
