@@ -53,32 +53,11 @@ Honors and Awards
   
 Presentations
 ======
-* 2024
-  * **Conference presentations:** Ocean Sciences Meeting, NOAA Climate and Global Change Summer Institute, SCAR Open Science Conference
-  * **Seminars:** University of California Berkeley, University of California Santa Barbara, University of Washington, University of Edinburgh
-    
-* 2023
-  * **Conference presentations:** Gordon Research Conference on Polar Marine Science, US CLIVAR Summit, SOOS Symposium, PCC Summer Institute, Comer Climate Conference
-  * **Seminars:** University of Washington, Yale University, New York University--Courant Institute, University of Wisconsin--Madison, University of Cambridge
-    
-* 2022
-  * **Conference presentations:** Ocean Sciences Meeting, EGU General Assembly, SOCCOM Annual Meeting, Physical Oceanography Dissertation Symposium, SO-CHIC Meeting, AGU Fall Meeting 
-  * **Seminars:** University of California Los Angeles, University of Washington, British Antarctic Survey, SOFLUX Working Group Webinar
-    
-* 2021
-  * **Conference presentations:** EGU General Assembly, SOCCOM Annual Meeting, Graduate Climate Conference
-    
-* 2020
-  * **Conference presentations:** Ocean Sciences Meeting, SOCCOM Annual Meeting
-    
-* 2019
-  * **Conference presentations:** SOCCOM Annual Meeting, AGU Fall Meeting
+* Conference presentations
+  * Ocean Sciences Meeting (2024), NOAA Climate and Global Change Summer Institute (2024), SCAR Open Science Conference (2024), Gordon Research Conference on Polar Marine Science (2023), US CLIVAR Summit (2023), SOOS Symposium (2023), PCC Summer Institute (2023), Comer Climate Conference (2023), Ocean Sciences Meeting (2022), EGU General Assembly (2022), SOCCOM Annual Meeting (2022), Physical Oceanography Dissertation Symposium (2022), SO-CHIC Meeting (2022), AGU Fall Meeting (2022), EGU General Assembly (2021), SOCCOM Annual Meeting (2021), Graduate Climate Conference (2021), Ocean Sciences Meeting (2020), SOCCOM Annual Meeting (2020), AGU Fall Meeting (2019), SOCCOM Annual Meeting (2019), Ocean Sciences Meeting (2018), AGU Fall Meeting (2018), AGU Fall Meeting (2016)
 
-* 2018
-  * **Conference presentations:** Ocean Sciences Meeting, AGU Fall Meeting
- 
-* 2016
-  * **Conference presentations:** AGU Fall Meeting
+* Seminars
+  * University of California Berkeley (2024), University of California Santa Barbara (2024), University of Washington (2024), University of Edinburgh (2024), University of Washington (2023), Yale University (2023), New York University--Courant Institute (2023), University of Wisconsin--Madison (2023), University of Cambridge (2023), SOFLUX Working Group Webinar (2022), University of Washington (2022), British Antarctic Survey (2022), University of California Los Angeles (2022)
   
 Teaching
 ======
