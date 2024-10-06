@@ -75,4 +75,7 @@ Presentations
 
 Teaching
 ======
-
+* Teaching Assistant
+  * <em>SIOC210/</em>Introduction to Physical Oceanography (Scripps) <a href="Prend_TA_Evaluations-SIO210_FA20.pdf" target="_blank">Evaluations</a></p>
+* Guest Lecturer
+  * <em>ATMS588/</em>Global Carbon Cycle and Climate (UW), <em>OCEAN512/</em>Geophysical Fluid Dynamics I (UW), 
