@@ -25,9 +25,9 @@ Positions
   * Fulbright U.S. Scholar
   * **Advisor:** [Sebastiaan Swart](https://sebswart.com/)
 
-* 2022--2024: California Institute of Technology; University of Washington
+* 2022--2024: California Institute of Technology, University of Washington
   * NOAA Climate and Global Change Postdoctoral Fellow
-  * **Advisors:** [Andrew Thompson](https://web.gps.caltech.edu/~andrewt/) (Caltech); [Georgy Manucharyan](https://deep.ocean.washington.edu/) (UW)
+  * **Advisors:** [Andrew Thompson](https://web.gps.caltech.edu/~andrewt/) (Caltech), [Georgy Manucharyan](https://deep.ocean.washington.edu/) (UW)
 
 * 2020--2021: Sorbonne Université, LOCEAN--IPSL
   * Chateaubriand Fellow
