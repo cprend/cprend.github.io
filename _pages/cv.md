@@ -61,14 +61,8 @@ Presentations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;SOOS Symposium<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;US CLIVAR Summit<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Gordon Research Conference on Polar Marine Science<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;AGU Fall Meeting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;SO-CHIC Annual Meeting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;Physical Oceanography Dissertation Symposium<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;SOCCOM Annual Meeting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;EGU General Assembly<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;Ocean Sciences Meeting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;AGU Fall Meeting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** &nbsp;&nbsp;Graduate Climate Conference; SOCCOM Annual Meeting EGU General Assembly<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;AGU Fall Meeting; SO-CHIC Meeting; PODS XII; SOCCOM Annual Meeting; EGU General Assembly; Ocean Sciences Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** &nbsp;&nbsp;Graduate Climate Conference; SOCCOM Annual Meeting; EGU General Assembly<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** &nbsp;&nbsp;SOCCOM Annual Meeting; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2019** &nbsp;&nbsp;AGU Fall Meeting; SOCCOM Annual Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2018** &nbsp;&nbsp;AGU Fall Meeting; Ocean Sciences Meeting<br>
