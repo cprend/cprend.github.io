@@ -55,11 +55,12 @@ Honors and Awards
 Service
 ======
 * Peer reviewer for 22 academic journals
+* Session convener at 3 international scientific conferences
 * Southern Ocean Fluxes (SOFLUX) working group leadership team
 * CLIVAR/CliC/SCAR Southern Ocean Region Panel
 * BGC Argo Webinar organizing committee
-* Session convener at 3 international scientific conferences
-* Physical Oceanography Curriculum Review Committee (2021--2022)  
+* Physical Oceanography Curriculum Review committee (2021--2022)
+* Scripps Teaching Awards committee (2020)  
 
 Presentations
 ======
