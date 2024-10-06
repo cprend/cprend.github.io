@@ -79,3 +79,15 @@ Teaching
   * <em>SIOC210/</em>Introduction to Physical Oceanography (Scripps) [Evaluations](https://cprend.github.io/files/Prend_TA_Evaluations-SIO210_FA20.pdf)
 * Guest Lecturer
   * <em>ATMS588/</em>Global Carbon Cycle and Climate (UW), <em>OCEAN512/</em>Geophysical Fluid Dynamics I (UW), <em>MARBIO301/</em>Topics in Marine Biology (UW), <em>OCEAN510/</em>Physics of Ocean Circulation (UW), <em>SIOC176/</em>Observational Physical Oceanography (Scripps)
+* Math Tutorial Instructor
+  * <em>OCEAN510/</em>Physics of Ocean Circulation (UW), <em>SIOC210/</em>Introduction to Physical Oceanography (Scripps)
+
+Mentoring
+======
+* Anna Lopez, Stanford University. **Project:** Seasonality of the Antarctic Coastal Current in the Bellingshausen Sea.
+* Isabella Checa, Princeton University. **Project:** Joint variability of air-sea carbon and oxygen fluxes in the Southern Ocean.
+* Rachel Pang, Princeton University. **Project:** Remote sources of oceanic heat delivery to the Antarctic continental shelf (Prend et al., 2024).
+* Jess Hunt, Princeton University. **Project:** Boundary between regimes of <em>p</em>CO<sub>2</sub> seasonality in the South Pacific (Prend, Hunt, et al., 2022).
+* Hanne Borstlap, Princeton University. **Project:** Seasonal variabilitiy of deep chlorophyll maxima in an oligotrophic regime.
+* Sawyer Brand, UCSD. **Project:** Lateral mixing of Pacific and North Atlantic Deep Waters in the Argentine Basin (Brand et al., 2023).
+* Lauren von Berg, Princeton University. **Project:** Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation (von Berg et al., 2020).
