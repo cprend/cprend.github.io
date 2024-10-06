@@ -54,7 +54,7 @@ Honors and Awards
 Presentations
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;SCAR Open Science Conference; NOAA CGC Summer Institute; Ocean Sciences Meeting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Comer Climate Conference; PCC Summer Institute; SOOS Symposium; US CLIVAR Summit; GRC Polar Marine Science<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Comer Climate Conference; SOOS Symposium; US CLIVAR Summit; GRC Polar Marine Science<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;AGU Fall Meeting; SO-CHIC Meeting; PODS XII; EGU General Assembly; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** &nbsp;&nbsp;Graduate Climate Conference; SOCCOM Annual Meeting; EGU General Assembly<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** &nbsp;&nbsp;SOCCOM Annual Meeting; Ocean Sciences Meeting<br>
