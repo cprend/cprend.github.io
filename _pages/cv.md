@@ -55,7 +55,7 @@ Honors and Awards
 Service
 ======
 * Peer reviewer for 22 academic journals
-* Session convener at 3 international scientific conferences
+* Session convener at 3 international science conferences
 * Southern Ocean Fluxes (SOFLUX) working group leadership team
 * CLIVAR/CliC/SCAR Southern Ocean Region Panel
 * BGC Argo Webinar organizing committee
