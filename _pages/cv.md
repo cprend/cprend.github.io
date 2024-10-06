@@ -53,12 +53,32 @@ Honors and Awards
   
 Presentations
 ======
-* Conference presentations
-  * Ocean Sciences Meeting (2024), NOAA Climate and Global Change Summer Institute (2024), SCAR Open Science Conference (2024), Gordon Research Conference on Polar Marine Science (2023), US CLIVAR Summit (2023), SOOS Symposium (2023), PCC Summer Institute (2023), Comer Climate Conference (2023), Ocean Sciences Meeting (2022), EGU General Assembly (2022), SOCCOM Annual Meeting (2022), Physical Oceanography Dissertation Symposium (2022), SO-CHIC Meeting (2022), AGU Fall Meeting (2022), EGU General Assembly (2021), SOCCOM Annual Meeting (2021), Graduate Climate Conference (2021), Ocean Sciences Meeting (2020), SOCCOM Annual Meeting (2020), AGU Fall Meeting (2019), SOCCOM Annual Meeting (2019), Ocean Sciences Meeting (2018), AGU Fall Meeting (2018), AGU Fall Meeting (2016)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;SCAR Open Science Conference<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;NOAA Climate and Global Change Summer Institute<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;Ocean Sciences Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Comer Climate Conference<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;PCC Summer Institute<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;SOOS Symposium<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;US CLIVAR Summit<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Gordon Research Conference on Polar Marine Science<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;AGU Fall Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;SO-CHIC Annual Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;Physical Oceanography Dissertation Symposium<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;SOCCOM Annual Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;EGU General Assembly<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;Ocean Sciences Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;AGU Fall Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** &nbsp;&nbsp;Graduate Climate Conference<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** &nbsp;&nbsp;SOCCOM Annual Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2021** &nbsp;&nbsp;EGU General Assembly<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** &nbsp;&nbsp;SOCCOM Annual Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2020** &nbsp;&nbsp;Ocean Sciences Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2019** &nbsp;&nbsp;AGU Fall Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2019** &nbsp;&nbsp;SOCCOM Annual Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2018** &nbsp;&nbsp;AGU Fall Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2018** &nbsp;&nbsp;Ocean Sciences Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** &nbsp;&nbsp;AGU Fall Meeting<br>
 
-* Seminars
-  * University of California Berkeley (2024), University of California Santa Barbara (2024), University of Washington (2024), University of Edinburgh (2024), University of Washington (2023), Yale University (2023), New York University--Courant Institute (2023), University of Wisconsin--Madison (2023), University of Cambridge (2023), SOFLUX Working Group Webinar (2022), University of Washington (2022), British Antarctic Survey (2022), University of California Los Angeles (2022)
-  
 Teaching
 ======
 
