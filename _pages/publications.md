@@ -9,6 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Peer Reviewed
 <ol reversed>
+  <li><b>Prend, C.J.</b>, S. Swart, A.L. Stewart, M.D. du Plessis, G.E. Manucharyan, A.F. Thompson. Observed regimes of submesoscale dynamics in the Southern Ocean seasonal ice zone, submitted.</li>
   <li><b>Prend, C.J.</b>, M.D. du Plessis, M.R. Mazloff, L. Sunnercrantz, S. Swart, S.T. Gille. Observing system requirements for measuring high-frequency air-sea fluxes in the Southern Ocean, submitted.</li>
   <li>du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, <b>C.J. Prend</b>, S. Swart. Storms regulate Southern Ocean summer warming, submitted.</li>
   <li>Spungin, S., Y. Si, A.L. Stewart, <b>C.J. Prend</b>. Observed seasonality of mixed-layer eddies and vertical heat transport over the Antarctic continental shelf, submitted.</li>
