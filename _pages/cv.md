@@ -58,6 +58,7 @@ Service
 * Session convener at 3 international science conferences
 * Southern Ocean Fluxes (SOFLUX) working group leadership team
 * CLIVAR/CliC/SCAR Southern Ocean Region Panel member
+* US CLIVAR working group on small-scale upper ocean processes
 * BGC Argo Webinar organizing committee
 * Physical Oceanography Curriculum Review committee (2021--2022)
 * Scripps Teaching Awards committee (2020)  
