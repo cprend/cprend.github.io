@@ -9,9 +9,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Submitted
 <ul class="unstyled">
-   <li>b>Prend, C.J.</b>, S. Swart, A.L. Stewart, M.D. du Plessis, G.E. Manucharyan, A.F. Thompson. Observed regimes of submesoscale dynamics in the Southern Ocean seasonal ice zone, submitted.</li>
+   <li><b>Prend, C.J.</b>, S. Swart, A.L. Stewart, M.D. du Plessis, G.E. Manucharyan, A.F. Thompson. Observed regimes of submesoscale dynamics in the Southern Ocean seasonal ice zone, submitted.</li>
   <li>du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, <b>C.J. Prend</b>, S. Swart. Storms regulate Southern Ocean summer warming, submitted.</li>
 </ul>
+
 ## Peer Reviewed
 <ol reversed>
   <!-- <li><b>Prend, C.J.</b>, S. Swart, A.L. Stewart, M.D. du Plessis, G.E. Manucharyan, A.F. Thompson. Observed regimes of submesoscale dynamics in the Southern Ocean seasonal ice zone, submitted.</li> -->
