@@ -65,6 +65,7 @@ Service
 
 Presentations
 ======
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2025** &nbsp;&nbsp;EGU General Assembly; Pan-CLIVAR Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;SCAR Open Science Conference; NOAA CGC Summer Institute; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Comer Climate Conference; SOOS Symposium; US CLIVAR Summit; GRC Polar Marine Science<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;AGU Fall Meeting; SO-CHIC Meeting; PODS XII; EGU General Assembly; Ocean Sciences Meeting<br>
