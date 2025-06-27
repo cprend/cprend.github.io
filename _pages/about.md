@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a climate scientist and Lecturer (~Assistant Professor) at University of Edinburgh in the School of GeoSciences. Prior to that, I was an [NSF Office of Polar Programs Postdoctoral Fellow](https://www.nsf.gov/geo/opp/postdoc_awardees.jsp) with James Girton at the University of Washington--Applied Physics Laboratory, and a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc) with Andy Thompson at California Institute of Technology and Georgy Manucharyan at University of Washington. I received a Ph.D. in physical oceanography from Scripps Institution of Oceanography working with Lynne Talley and Sarah Gille as part of the [Southern Ocean Carbon and Climate Observations and Modeling project](https://soccom.princeton.edu/).
+I'm a climate scientist and Lecturer (~Assistant Professor) at University of Edinburgh in the School of GeoSciences. Prior to that I was an [NSF Office of Polar Programs Postdoctoral Fellow](https://www.nsf.gov/geo/opp/postdoc_awardees.jsp) with James Girton at the University of Washington--Applied Physics Laboratory, and a [NOAA Climate and Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc) with Andy Thompson at California Institute of Technology and Georgy Manucharyan at University of Washington. I received a Ph.D. in physical oceanography from Scripps Institution of Oceanography working with Lynne Talley and Sarah Gille as part of the [Southern Ocean Carbon and Climate Observations and Modeling project](https://soccom.princeton.edu/).
 
 Research interests
 ======
