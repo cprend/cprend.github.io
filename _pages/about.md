@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Ocean Dynamics @ Edinburgh"
 author_profile: true
 redirect_from: 
   - /about/
