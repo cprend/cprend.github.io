@@ -17,7 +17,9 @@ Education
 
 Positions
 ======
-* 2024--present: University of Washington--Applied Physics Laboratory
+* 2025--present: University of Edinburgh
+  * Lecturer in Marine Science, School of GeoSciences
+* 2024--2025: University of Washington--Applied Physics Laboratory
   * NSF Office of Polar Programs Postdoctoral Fellow
   * **Advisor:** [James Girton](https://www.apl.washington.edu/people/profile.php?last_name=Girton&first_name=James)
 
