@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<u><a href="mailto:cprend@uw.edu">Contact me</a></u> for a complete CV.
+<u><a href="mailto:Channing.Prend@ed.ac.uk">Contact me</a></u> for a complete CV.
 
 Education
 ======
