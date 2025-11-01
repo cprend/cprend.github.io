@@ -5,6 +5,6 @@ permalink: /group/
 author_profile: false
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=uyiGX5kAAAAJ&hl=en">my Google Scholar profile</a></u>.
+<u><a href="mailto:Channing.Prend@ed.ac.uk">Contact me</a></u> if you would like to discuss opportunities in the group.
 
 ## Graduate Student Opportunities
