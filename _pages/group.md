@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ocean Dynamics Lab"
+title: "Ocean Dynamics @ Edinburgh"
 permalink: /group/
 author_profile: false
 ---
