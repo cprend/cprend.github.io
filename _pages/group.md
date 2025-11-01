@@ -5,7 +5,10 @@ permalink: /group/
 author_profile: false
 ---
 
-<u><a href="mailto:Channing.Prend@ed.ac.uk">Contact me</a></u> if you would like to discuss opportunities in the group.
+<u><a href="mailto:Channing.Prend@ed.ac.uk">Contact me</a></u> if you'd like to discuss opportunities in the group.
 
-## Graduate Student Opportunities
-I am recruiting a PhD student to work on Antarctic sea ice-ocean interactions starting in Fall 2026. More information about the project can be found <u><a href="https://e5-dtp.ed.ac.uk/project?item=1797">here</a></u>. The application deadline is December 14, see <u><a href="https://e5-dtp.ed.ac.uk/e5-dtp-application-for-2026-open-now/how-to-apply">here</a></u>. for more information about the application process.   
+## Graduate Student Opening
+I'm recruiting a PhD student to start in Fall 2026 working on Antarctic sea ice-ocean interactions. More information about the project can be found <u><a href="https://e5-dtp.ed.ac.uk/project?item=1797">here</a></u>. The application deadline is December 14, see <u><a href="https://e5-dtp.ed.ac.uk/e5-dtp-application-for-2026-open-now/how-to-apply">here</a></u> for more information about the application process.  
+
+## Postdoc Opportunities
+I'm happy to support applications for various fellowships, such as the u><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">Marie Skłodowska-Curie Fellowship</a></u>, and <u><a href="https://royalsociety.org/grants/newton-international/?gad_source=1&gad_campaignid=2084475756&gbraid=0AAAAAD-RRCSQ2mBKBSZjSoIVdge3SR9Uu&gclid=Cj0KCQjw35bIBhDqARIsAGjd-cbk1JvHr9qYcAs9OM1Haw-YnOfsyE2XcrR4WbJAbV1y_9obLhiza9UaArwmEALw_wcBy">Netwon International Fellowships</a></u>. Please get in touch if you'd like to discuss project topics. 
