@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "Ocean Dynamics Lab"
 permalink: /group/
 author_profile: false
 ---
