@@ -6,8 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-remote_theme: academicpages/academicpages@main
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Channing Prend"
