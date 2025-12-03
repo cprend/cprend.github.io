@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ocean Dynamics @ Edinburgh"
+title: "Ocean Dynamics Lab @ Edinburgh"
 author_profile: true
 redirect_from: 
   - /about/
