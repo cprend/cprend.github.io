@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default" 
 title                    : "Channing Prend"
 title_separator          : "-"
 name                     : &name "Channing Prend"
