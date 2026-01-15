@@ -56,10 +56,10 @@ Honors and Awards
 
 Service
 ======
-* Co-chair of Southern Ocean Fluxes (SOFLUX) working group
+* Co-chair of the Southern Ocean Fluxes (SOFLUX) working group
+* Co-chair of the CLIVAR/CliC/SCAR Southern Ocean Region Panel
 * Peer reviewer for 22 academic journals
 * Session convener at 4 international science conferences
-* CLIVAR/CliC/SCAR Southern Ocean Region Panel member
 * US CLIVAR working group on small-scale upper ocean processes
 * BGC Argo Webinar organizing committee
 * Physical Oceanography Curriculum Review committee (2021--2022)
