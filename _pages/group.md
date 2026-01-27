@@ -8,6 +8,8 @@ author_profile: false
 <u><a href="mailto:Channing.Prend@ed.ac.uk">Contact me</a></u> if you'd like to discuss opportunities in the group.
 
 ## Graduate Student Positions
+I'm recruiting a PhD student to start in Fall 2026 working on data-driven modelling of ocean biogeochemistry. More information about the project can be found [here](https://geosciences.ed.ac.uk/study/degrees/research-degrees/phd-projects/physical-sciences?item=1856). The application deadline is March 26, see [here](https://geosciences.ed.ac.uk/study/degrees/research-degrees/application-information) for more information about the application process.  
+
 I'm recruiting a PhD student to start in Fall 2026 working on Antarctic sea ice-ocean interactions. More information about the project can be found [here](https://e5-dtp.ed.ac.uk/project?item=1797). The application deadline is December 14, see [here](https://e5-dtp.ed.ac.uk/e5-dtp-application-for-2026-open-now/how-to-apply) for more information about the application process.  
 
 ## Postdoc Positions
