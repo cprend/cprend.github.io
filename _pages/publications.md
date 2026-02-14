@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Peer Reviewed
 <ol reversed>
-  <li>Stewart, A.L., M.K. Youngs, <b>C.J. Prend</b>. Fate of heat approaching Antarctica's largest ice shelves mediated by continental shelf eddies, submitted.</li>
+  <li>Stewart, A.L., M.K. Youngs, <b>C.J. Prend</b>. Fate of heat approaching large Antarctic ice shelves mediated by continental shelf eddies, submitted.</li>
   <li>du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, <b>C.J. Prend</b>, S. Swart (2026). Southern Ocean summer warming is regulated by storm-driven mixing, <em>Nature Geoscience</em>, <b>16</b>, 75-83. doi: <a href="https://www.nature.com/articles/s41561-025-01857-3">10.1038/s41467-025-63775-7</a>.</li>
   <li><b>Prend, C.J.</b>, S. Swart, A.L. Stewart, M.D. du Plessis, G.E. Manucharyan, A.F. Thompson (2025). Observed regimes of submesoscale dynamics in the Southern Ocean seasonal ice zone, <em>Nature Communications</em>, <b>16</b>. doi: <a href="https://www.nature.com/articles/s41467-025-63775-7">10.1038/s41467-025-63775-7</a></li> 
   <li>Spungin, S., Y. Si, A.L. Stewart, <b>C.J. Prend</b> (2025). Observed seasonality of mixed-layer eddies and vertical heat transport over the Antarctic continental shelf, <em>Journal of Geophysical Research: Oceans</em>, <b>130</b>. doi: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021564">10.1029/2024JC021564</a></li>
