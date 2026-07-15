@@ -67,7 +67,7 @@ Service
 
 Presentations
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2026** &nbsp;&nbsp;Ocean Sciences Meeting; SCAR Open Science Conference; Challenger Scoeity Conference<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2026** &nbsp;&nbsp;Ocean Sciences Meeting; SCAR Open Science Conference; Challenger Conference<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2025** &nbsp;&nbsp;EGU General Assembly; Pan-CLIVAR Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;SCAR Open Science Conference; NOAA CGC Summer Institute; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Comer Climate Conference; SOOS Symposium; US CLIVAR Summit; GRC Polar Marine Science<br>
