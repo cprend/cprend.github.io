@@ -81,6 +81,6 @@ Presentations
 Teaching
 ======
 * University of Edinburgh
-    * Oceanography (S26,S27), Topics in Global Change (S26,S27), Marine Ecosystems and Policies (F25,F26), Environmental Problems and Issues (F26) 
+    * Oceanography (S26,S27); Topics in Global Change (S26,S27); Marine Ecosystems and Policies (F25,F26); Environmental Problems and Issues (F26) 
 * University of Washington
-    * Global Carbon Cycle and Climate (W24), Geophysical Fluid Dynamics (W23), Physics of Ocean Circulation (F22) 
+    * Global Carbon Cycle and Climate (W24); Geophysical Fluid Dynamics (W23); Physics of Ocean Circulation (F22) 
