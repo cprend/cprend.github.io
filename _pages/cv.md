@@ -67,6 +67,7 @@ Service
 
 Presentations
 ======
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2026** &nbsp;&nbsp;Ocean Sciences Meeting; SCAR Open Science Conference<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2025** &nbsp;&nbsp;EGU General Assembly; Pan-CLIVAR Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;SCAR Open Science Conference; NOAA CGC Summer Institute; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Comer Climate Conference; SOOS Symposium; US CLIVAR Summit; GRC Polar Marine Science<br>
@@ -76,22 +77,3 @@ Presentations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2019** &nbsp;&nbsp;AGU Fall Meeting; SOCCOM Annual Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2018** &nbsp;&nbsp;AGU Fall Meeting; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** &nbsp;&nbsp;AGU Fall Meeting<br>
-
-Teaching
-======
-* Teaching Assistant
-  * <em>SIOC210/</em>Introduction to Physical Oceanography (Scripps) [Evaluations](https://cprend.github.io/files/Prend_TA_Evaluations-SIO210_FA20.pdf)
-* Guest Lecturer
-  * <em>ATMS588/</em>Global Carbon Cycle and Climate (UW), <em>OCEAN512/</em>Geophysical Fluid Dynamics I (UW), <em>MARBIO301/</em>Topics in Marine Biology (UW), <em>OCEAN510/</em>Physics of Ocean Circulation (UW), <em>SIOC176/</em>Observational Physical Oceanography (Scripps)
-* Math Tutorial Instructor
-  * <em>OCEAN510/</em>Physics of Ocean Circulation (UW), <em>SIOC210/</em>Introduction to Physical Oceanography (Scripps)
-
-Mentoring
-======
-* Anna Fisher Lopez, <em>Stanford University</em>. **Project:** Seasonality of the Antarctic Coastal Current in the Bellingshausen Sea.
-* Isabella Checa, <em>Princeton University</em>. **Project:** Joint variability of air-sea carbon and oxygen fluxes in the Southern Ocean.
-* Rachel Pang, <em>Princeton University</em>. **Project:** Remote sources of oceanic heat delivery to the Antarctic continental shelf (Prend et al., 2024).
-* Jess Hunt, <em>Princeton University</em>. **Project:** Boundary between regimes of <em>p</em>CO<sub>2</sub> seasonality in the South Pacific (Prend, Hunt, et al., 2022).
-* Hanne Borstlap, <em>Princeton University</em>. **Project:** Seasonal variabilitiy of deep chlorophyll maxima in an oligotrophic regime.
-* Sawyer Brand, <em>UC San Diego</em>. **Project:** Lateral mixing of Pacific and North Atlantic Deep Waters in the Argentine Basin (Brand et al., 2023).
-* Lauren von Berg, <em>Princeton University</em>. **Project:** Weddell Sea phytoplankton blooms modulated by sea ice variability and polynya formation (von Berg et al., 2020).
