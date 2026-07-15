@@ -67,7 +67,7 @@ Service
 
 Presentations
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2026** &nbsp;&nbsp;Ocean Sciences Meeting; SCAR Open Science Conference<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2026** &nbsp;&nbsp;Ocean Sciences Meeting; SCAR Open Science Conference; Challenger Scoeity Conference<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2025** &nbsp;&nbsp;EGU General Assembly; Pan-CLIVAR Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;SCAR Open Science Conference; NOAA CGC Summer Institute; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Comer Climate Conference; SOOS Symposium; US CLIVAR Summit; GRC Polar Marine Science<br>
@@ -77,3 +77,8 @@ Presentations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2019** &nbsp;&nbsp;AGU Fall Meeting; SOCCOM Annual Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2018** &nbsp;&nbsp;AGU Fall Meeting; Ocean Sciences Meeting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2016** &nbsp;&nbsp;AGU Fall Meeting<br>
+
+Teaching
+======
+* University of Edinburgh
+    * Oceanography (S26,S27), Topics in Global Change (S26,S27), Marine Ecosystems and Policies (F25,F26), Environmental Problems and Issues (F26) 
