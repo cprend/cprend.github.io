@@ -41,6 +41,7 @@ Positions
 
 Honors and Awards
 ======
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2026** &nbsp;&nbsp;Challenger Fellowship, Challenger Society for Marine Science<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2024** &nbsp;&nbsp;NSF Office of Polar Programs (OPP) Postdoctoral Fellowship<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2023** &nbsp;&nbsp;Fulbright U.S. Scholar Award, Department of State<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022** &nbsp;&nbsp;Jean Fort Dissertation Prize, University of California San Diego<br>
