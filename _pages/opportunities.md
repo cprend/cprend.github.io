@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ocean Dynamics Lab @ Edinburgh"
-permalink: /group/
+permalink: /opportunities/
 author_profile: false
 ---
 
