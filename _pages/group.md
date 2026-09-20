@@ -7,7 +7,9 @@ author_profile: false
 
 <u><a href="mailto:Channing.Prend@ed.ac.uk">Contact me</a></u> if you'd like to discuss opportunities in the group.
 
-<img src="/images/cprend.png"
+<div class="group-pi">
+
+  <img src="/images/cprend.png"
        alt="Channing Prend"
        class="group-photo group-photo-pi">
 
@@ -26,8 +28,6 @@ author_profile: false
     </p>
 
   </div>
-
-</div>
 
 ## Graduate Students
 
