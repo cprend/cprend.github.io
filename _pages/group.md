@@ -15,16 +15,14 @@ author_profile: false
 
   <div class="group-pi-info">
 
-    <h2>Channing Prend</h2>
-
-    <p class="group-role">PI · he/him</p>
+    <h2>Channing Prend<span class="group-pronouns">(he/him)</span></h2>
 
     <p><strong>Research interests:</strong>
-      Southern Ocean dynamics, air-sea-ice interactions, global carbon cycle.
+      Southern Ocean dynamics, air-sea-ice interactions, carbon cycle
     </p>
 
     <p><strong>Personal interests:</strong>
-      Hiking, violin, printmaking, reading.
+      hiking, violin, printmaking, reading
     </p>
 
   </div>
