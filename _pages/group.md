@@ -29,6 +29,8 @@ author_profile: false
 
   </div>
 
+</div>
+
 ## Graduate Students
 
 
