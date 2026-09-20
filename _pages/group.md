@@ -11,4 +11,4 @@ author_profile: false
 
 
 ## Former Members
-Julia Westwood, (MSc, 2026); Emily Bonnett (Msc, 2026); Archie Holmes (BSc, 2026); Emma Hsiao (Intern, Summer 2026); Jill Kingsley (Intern, Summer 2026); Michael Fan (Intern, Summer 2026) 
+Julia Westwood, (MSc, 2026); Emily Bonnett (Msc, 2026); Archie Holmes (BSc, 2026); Emma Hsiao (Summer Intern, 2026); Jill Kingsley (Summer Intern, 2026); Michael Fan (Summer Intern, 2026) 
