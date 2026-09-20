@@ -22,7 +22,7 @@ author_profile: false
     </p>
 
     <p><strong>Personal interests:</strong>
-      hiking, violin, printmaking, reading
+      hiking, skiing, violin, printmaking, reading
     </p>
 
   </div>
