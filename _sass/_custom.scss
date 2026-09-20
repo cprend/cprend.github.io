@@ -31,7 +31,7 @@
 
 .group-pi-info h2 {
   margin-top: 0;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.6em;
 }
 
 .group-pronouns {
@@ -44,6 +44,10 @@
 .group-pi-info p {
   margin: 0 !important;
   line-height: 1.4;
+}
+
+.group-pi + h2 {
+  margin-top: 0.2em;
 }
 
 .group-pi-info p strong {
