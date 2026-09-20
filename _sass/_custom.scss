@@ -1,58 +1,60 @@
 /* ==========================================================================
-   UTILITY CLASSES
+   GROUP PAGE - PI
    ========================================================================== */
 
 .group-pi {
-  display: flex;
-  align-items: flex-start;
-  gap: 2em;
-  max-width: 750px;
-  margin: 2em 0 4em;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 2em !important;
+  max-width: 750px !important;
+  margin: 2em 0 4em !important;
 }
 
-.group-photo {
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border-radius: 50%;
-  flex-shrink: 0;
-}
-
-.group-photo-pi {
-  width: 140px;
-  height: 140px;
+.group-pi img.group-photo,
+.group-pi img.group-photo-pi {
+  display: block !important;
+  width: 140px !important;
+  height: 140px !important;
+  max-width: 140px !important;
+  max-height: 140px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  flex: 0 0 140px !important;
+  margin: 0 !important;
 }
 
 .group-pi-info {
-  flex: 1;
+  flex: 1 1 auto !important;
+  min-width: 0;
 }
 
 .group-pi-info h2 {
-  margin-top: 0;
-  margin-bottom: 0.2em;
-}
-
-.group-role {
-  font-style: italic;
-  margin-top: 0;
-  margin-bottom: 1em;
+  margin-top: 0 !important;
 }
 
 .group-pi-info p {
   margin-top: 0.5em;
-  margin-bottom: 0.75em;
 }
 
 
-/* Mobile */
+/* ==========================================================================
+   MOBILE
+   ========================================================================== */
 
 @media screen and (max-width: 600px) {
+
   .group-pi {
-    gap: 1em;
+    gap: 1em !important;
   }
 
-  .group-photo-pi {
-    width: 100px;
-    height: 100px;
+  .group-pi img.group-photo,
+  .group-pi img.group-photo-pi {
+    width: 100px !important;
+    height: 100px !important;
+    max-width: 100px !important;
+    max-height: 100px !important;
+    flex-basis: 100px !important;
   }
+
 }
