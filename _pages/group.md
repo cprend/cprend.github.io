@@ -17,11 +17,11 @@ author_profile: false
 
   <p class="group-role">PI · he/him</p>
 
-  <p><strong>Research:</strong>
+  <p><strong>Research interests:</strong>
     Southern Ocean dynamics, air-sea-ice interactions, global carbon cycle.
   </p>
 
-  <p><strong>Outside research:</strong>
+  <p><strong>Personal interests:</strong>
     Hiking, violin, printmaking, reading.
   </p>
 
