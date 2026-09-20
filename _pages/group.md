@@ -18,7 +18,7 @@ author_profile: false
     <h2>Channing Prend<span class="group-pronouns">(he/him)</span></h2>
 
     <p><strong>Research interests:</strong>
-      Southern Ocean dynamics, air--sea--ice interactions, carbon cycle
+      Southern Ocean dynamics, air-sea-ice interactions, carbon cycle
     </p>
 
     <p><strong>Personal interests:</strong>
