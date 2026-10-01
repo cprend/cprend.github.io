@@ -9,6 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Peer Reviewed
 <ol reversed>
+  <li><b>Prend, C.J.</b>, J.B. Girton, G.A. MacGilchrist, J. Neme, D. Chaudhuri. Topographically mediated pathways of Circumpolar Deep Water toward the Amundsen Sea continental shelf, submitted.</li>
   <li>Neme, J., <b>C.J. Prend</b>, A.K. Morrison, A.McC. Hogg, A.F. Thompson. Modes of Ross Gyre variability: strengthening and expansion, submitted.</li>
   <li>Coffey, N.B., E.A. Wilson, <b>C.J. Prend</b>. Wind-driven Antarctic Circumpolar Current-subpolar gyre interactions and their impact on poleward heat transport pathways, submitted.</li>
   <li><b>Prend, C.J.</b>*, L. Biddle*, M.D. du Plessis, S. Swart. Impact of synoptic storms and ocean forcing on observed sea ice variability in the Weddell Sea marginal ice zone, submitted. <span style="font-size: 0.8em;">*contributed equally</span></li>
