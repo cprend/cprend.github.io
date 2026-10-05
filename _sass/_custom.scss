@@ -60,6 +60,58 @@ h2 + p {
 }
 
 /* ==========================================================================
+   GROUP PAGE - STUDENTS
+   ========================================================================== */
+
+.group-member {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 2em !important;
+  max-width: none !important;
+  margin: 1.5em 0 !important;
+}
+
+.group-member img.group-photo {
+  display: block !important;
+  width: 140px !important;
+  height: 140px !important;
+  max-width: 140px !important;
+  max-height: 140px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  flex: 0 0 140px !important;
+  margin: 0 !important;
+}
+
+.group-member-info {
+  flex: 1 1 auto !important;
+  min-width: 0;
+}
+
+.group-member-info h2 {
+  margin-top: 0;
+  margin-bottom: 0.6em;
+}
+
+.group-member-info p {
+  margin: 0 !important;
+  line-height: 1.4;
+}
+
+.group-member-info p strong {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.group-member .group-pronouns {
+  margin-left: 0.7em;
+  font-size: 0.8em;
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* ==========================================================================
    MOBILE
    ========================================================================== */
 
