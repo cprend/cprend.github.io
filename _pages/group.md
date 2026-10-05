@@ -30,6 +30,27 @@ author_profile: false
 </div>
 
 ## Graduate Students
+<div class="group-member">
+
+  <img src="/images/charlie.png"
+       alt="Charlie Waltham"
+       class="group-photo">
+
+  <div class="group-member-info">
+
+    <h2>Charlie Waltham <span class="group-pronouns">(he/him)</span></h2>
+
+    <p><strong>Research interests:</strong>
+      machine learning, ocean modelling, biogeochemical modelling 
+    </p>
+
+    <p><strong>Personal interests:</strong>
+      astrophotography, board gaming, cycling
+    </p>
+
+  </div>
+
+</div>
 
 ## Undergraduate Students
 
