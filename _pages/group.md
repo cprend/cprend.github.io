@@ -53,6 +53,26 @@ author_profile: false
 </div>
 
 ## Undergraduate Students
+<div class="group-member">
 
+  <img src="/images/maddy.png"
+       alt="Maddy West"
+       class="group-photo">
+
+  <div class="group-member-info">
+
+    <h2>Maddy West<span class="group-pronouns">(she/her)</span></h2>
+
+    <p><strong>Research interests:</strong>
+      climate science, oceanography, sustainability 
+    </p>
+
+    <p><strong>Personal interests:</strong>
+      running, yoga, climbing, cooking
+    </p>
+
+  </div>
+
+</div>
 ## Former Members
 Julia Westwood (MSc, 2026); Emily Bonnett (MSc, 2026); Archie Holmes (BSc, 2026); Emma Hsiao (Summer Intern, 2026); Jill Kingsley (Summer Intern, 2026); Michael Fan (Summer Intern, 2026) 
