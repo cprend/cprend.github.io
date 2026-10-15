@@ -9,7 +9,7 @@ author_profile: false
 
 <div class="group-pi">
 
-  <img src="/images/cprend.png"
+  <img src="/images/Channing.png"
        alt="Channing Prend"
        class="group-photo group-photo-pi">
 
