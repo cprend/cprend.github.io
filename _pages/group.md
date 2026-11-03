@@ -75,7 +75,7 @@ author_profile: false
 
 </div>
 
-<div class="group-member">
+<div class="group-member" style="margin-top: 2em;">
 
   <img src="/images/fia.png"
        alt="Fia Mahdi"
@@ -96,5 +96,6 @@ author_profile: false
   </div>
 
 </div>
+
 ## Former Members
 Julia Westwood (MSc, 2026); Emily Bonnett (MSc, 2026); Archie Holmes (BSc, 2026); Emma Hsiao (Summer Intern, 2026); Jill Kingsley (Summer Intern, 2026); Michael Fan (Summer Intern, 2026) 
