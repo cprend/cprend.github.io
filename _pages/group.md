@@ -77,7 +77,7 @@ author_profile: false
 
 <div class="group-member" style="margin-top: 2em;">
 
-  <img src="/images/fia.png"
+  <img src="/images/fiam.png"
        alt="Fia Mahdi"
        class="group-photo">
 
