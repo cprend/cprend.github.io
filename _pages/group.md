@@ -74,5 +74,27 @@ author_profile: false
   </div>
 
 </div>
+
+<div class="group-member">
+
+  <img src="/images/fia.png"
+       alt="Fia Mahdi"
+       class="group-photo">
+
+  <div class="group-member-info">
+
+    <h2>Fia Mahdi<span class="group-pronouns">(she/her)</span></h2>
+
+    <p><strong>Research interests:</strong>
+      ocean acidification, climate change, environmental policy
+    </p>
+
+    <p><strong>Personal interests:</strong>
+      netball, tennis, hiking, traveling, swimming, reading
+    </p>
+
+  </div>
+
+</div>
 ## Former Members
 Julia Westwood (MSc, 2026); Emily Bonnett (MSc, 2026); Archie Holmes (BSc, 2026); Emma Hsiao (Summer Intern, 2026); Jill Kingsley (Summer Intern, 2026); Michael Fan (Summer Intern, 2026) 
