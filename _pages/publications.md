@@ -36,6 +36,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Non Peer Reviewed
 <ol reversed>
+  <li>Thomalla, S., <b>C.J. Prend</b>, S.-A. Nicholson (2027). Seasonality of marine biological cycling. <em>Encyclopedia of Climate System Science</em>, <b>1</b>, 345-355.</li>
   <li><b>Prend, C.J.</b>, C.O. Dufour, A. Purich (2026). The Southern Ocean Region Panel: Advancing Antarctic science through international coordination and collaboration. <em>CLIVAR Exchanges</em>, <b>85</b>, 12-14.</li>
   <li><b>Prend, C.J.</b> (2022). Physical controls on Southern Ocean biogeochemistry. <em>Ph.D. dissertation</em>, Scripps Institution of Oceanography.</li>
   <li><b>Prend, C.J.</b> (2019). Eddy mixing of biogeochemical tracers. <em>Proceedings of the Geophysical Fluid Dynamics Program</em>, Woods Hole Oceanographic Institution.</li>
