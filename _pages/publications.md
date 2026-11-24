@@ -10,8 +10,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Peer Reviewed
 <ol reversed>
   <li><b>Prend, C.J.</b>, J.B. Girton, G.A. MacGilchrist, J. Neme, D. Chaudhuri. Topographically mediated pathways of Circumpolar Deep Water toward the Amundsen Sea continental shelf, submitted.</li>
-  <li>Coffey, N.B., E.A. Wilson, <b>C.J. Prend</b>. Wind-driven Antarctic Circumpolar Current-subpolar gyre interactions and their impact on poleward heat transport pathways, submitted.</li>
   <li><b>Prend, C.J.</b>*, L. Biddle*, M.D. du Plessis, S. Swart. Impact of synoptic storms and ocean forcing on observed sea ice variability in the Weddell Sea marginal ice zone, submitted. <span style="font-size: 0.8em;">*contributed equally</span></li>
+  <li>Coffey, N.B., E.A. Wilson, <b>C.J. Prend</b>. Wind-driven Antarctic Circumpolar Current-subpolar gyre interactions and their impact on poleward heat transport pathways, <em>Journal of Geophysical Research: Oceans</em>, accepted.</li>
   <li>Neme, J., <b>C.J. Prend</b>, A.K. Morrison, A.McC. Hogg, A.F. Thompson. Modes of Ross Gyre variability: strengthening and expansion,   <em>Journal of Geophysical Research: Oceans</em>, <b>131</b>. doi: <a href="http://doi.org/10.1029/2026JC024808">10.1029/2026JC024808</a>.</li>
   <li>Stewart, A.L., M.K. Youngs, <b>C.J. Prend</b> (2026). Fate of heat approaching the Filchner-Ronne ice shelf mediated by continental shelf eddies, <em>Science Advances</em>, <b>12</b>. doi: <a href="https://www.science.org/doi/10.1126/sciadv.aec8232">10.1126/sciadv.aec8232</a>.</li>
   <li>du Plessis, M.D., S.-A. Nicholson, I.S. Giddy, P.M.S. Monteiro, <b>C.J. Prend</b>, S. Swart (2026). Southern Ocean summer warming is regulated by storm-driven mixing, <em>Nature Geoscience</em>, <b>16</b>, 75-83. doi: <a href="https://www.nature.com/articles/s41561-025-01857-3">10.1038/s41467-025-63775-7</a>.</li>
